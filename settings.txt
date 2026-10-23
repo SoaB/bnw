@@ -1,0 +1,5 @@
+sound=1
+hints=1
+coords=1
+animSpeed=1
+theme=0
